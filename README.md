@@ -141,12 +141,10 @@
     &emsp;
     
 </p>
-<p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile Trophies</p><br>
-<img src="https://github-profile-trophy.vercel.app/?username=Ahmad-shaikh575&theme=gruvbox" />
 
 
 <br/>
 
 ------
-Credit: [Ahmad-shaikh575](https://github.com/Ahmad-shaikh575)
-Last Edited on: 08/09/2021
+Credit: [NIKHIL KISHAN KHANEJA](https://github.com/nikhilkhaneja)
+
