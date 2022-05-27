@@ -1,21 +1,18 @@
 ### Hi there 👋
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Nikhil!;I'm+a+Data+Science+Enthusiast+and+Operations+Intern+at+NIELSEN;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Nikhil!;I'm+a+Data+Science+Enthusiast;)](https://git.io/typing-svg)
 
-<img src="https://komarev.com/ghpvc/?username=nikhilkhaneja&label=Views&color=brightgreen&style=flat-square" alt="views on github" />
 
 <h3> Here's some fun facts about me: </h3>
 
-- 🔭 I’m currently working on Flutter Projects
-- 🌱 I've 8+ months of professional experience worked at 5Gen Solutions and built three cross-platform applications in Flutter
-- 👯 I’m looking to collaborate on Flutter, Machine Learning and Deep Learning Projects
-- 🤔 I’m lalso working as a Freelancer at Upwork and Fiverr.
-- 💬 Ask me about Programming or Machine Learning
-- 📫 I am also a technical writer at Medium 
--  📰 Articles: 
-	-	[Build Your Own Generative Adversarial Network (GAN) Using Pytorch](https://pub.towardsai.net/build-your-own-generative-adversarial-network-gan-using-pytorch-c367b8506987) 
-	- [Dog Breed Classifier With PyTorch Using Transfer Learning](https://levelup.gitconnected.com/dog-breed-classifier-with-pytorch-using-transfer-learning-8f15af6f9010)
+- 🔭 I’m an incoming Operations Intern at Nielsen
+- 👯 I’m looking to collaborate on Data Science, Data Analysis, Machine Learning and Deep Learning Projects
+- 🤔 I’m also a Graduate Student at New York University
+- 💬 Ask me about Programming or Machine Learning 
+-  📰 Publications: 
+	-	[Finger Vien Authentication System](https://ieeexplore.ieee.org/document/9402594) 
+	- [Pothole Detection and Prediction using Sensors and Machine Learning](http://thegrenze.com/index.php?display=page&view=journalabstract&absid=709&id=8)
 
 <p>Connect with me on
 <br>	
