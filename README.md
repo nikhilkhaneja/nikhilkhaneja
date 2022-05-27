@@ -52,26 +52,28 @@
 <p align="left"> 
   
 
-  <a href="https://dart.dev/">
+  <a href="#">
     <img alt="DART" src="https://img.shields.io/badge/R-0175C2?style=for-the-badge&logo=r&logoColor=white"/>
   </a>
 &emsp;
- <a href="https://dart.dev/">
+ <a href="#">
     <img alt="DART" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
   </a>
 &emsp;
-<a href="https://python.org/">
+<a href="#">
     <img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen"/>
   </a>
   &emsp;
-<a href="https://www.java.com/en/">
+<a href="#">
     <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
   </a>
   &emsp;
-<a href="https://www.java.com/en/">
+<a href="#">
     <img alt="Java" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
   </a>
-
+<a href="#">
+    <img alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"/>
+  </a>
 </p>
 
 ### 👉 Frameworks
