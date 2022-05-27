@@ -67,7 +67,10 @@
 <a href="https://www.java.com/en/">
     <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
   </a>
-
+  &emsp;
+<a href="https://www.java.com/en/">
+    <img alt="Java" src="https://img.shields.io/badge/SQL-ED8B00?style=for-the-badge&logo=sql&logoColor=white"/>
+  </a>
 
 </p>
 
