@@ -43,8 +43,6 @@
 
 
 
-![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=nikhilkhaneja&theme=gruvbox&hide_border=true&area=true)
-
 
 
 ## 🛠️ My Skills
@@ -55,7 +53,7 @@
   
 
   <a href="https://dart.dev/">
-    <img alt="DART" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
+    <img alt="DART" src="https://img.shields.io/badge/R-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
   </a>
 &emsp;
 <a href="https://python.org/">
