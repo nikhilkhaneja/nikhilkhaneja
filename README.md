@@ -53,7 +53,10 @@
   
 
   <a href="https://dart.dev/">
-    <img alt="DART" src="https://img.shields.io/badge/R-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
+    <img alt="DART" src="https://img.shields.io/badge/R-0175C2?style=for-the-badge&logo=r&logoColor=white"/>
+  </a>
+ <a href="https://dart.dev/">
+    <img alt="DART" src="https://img.shields.io/badge/C++-0175C2?style=for-the-badge&logo=cpp&logoColor=white"/>
   </a>
 &emsp;
 <a href="https://python.org/">
