@@ -57,7 +57,7 @@
   </a>
 &emsp;
  <a href="https://dart.dev/">
-    <img alt="DART" src="https://img.shields.io/badge/C++-0175C2?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+    <img alt="DART" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
   </a>
 &emsp;
 <a href="https://python.org/">
@@ -69,7 +69,7 @@
   </a>
   &emsp;
 <a href="https://www.java.com/en/">
-    <img alt="Java" src="https://img.shields.io/badge/SQL-ED8B00?style=for-the-badge&logo=sql&logoColor=white"/>
+    <img alt="Java" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
   </a>
 
 </p>
