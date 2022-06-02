@@ -33,7 +33,7 @@
 
 <hr>
  
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nikhilkhaneja&show_icons=true&locale=en&layout=compact&theme=gruvbox" alt="nikhilkhaneja" /></p>
+<p align="center" ><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=nikhilkhaneja&show_icons=true&locale=en&layout=compact&theme=gruvbox" alt="nikhilkhaneja" /></p>
 
 <br><br><br><br><br>
 
