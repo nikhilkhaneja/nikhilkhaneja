@@ -79,8 +79,6 @@
 
 ### 👉 Frameworks
 <p align="left"> 
-
-  &emsp; 
   <a href="#" target="_blank"> 
    <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white">
   </a>   
