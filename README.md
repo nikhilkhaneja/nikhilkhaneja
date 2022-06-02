@@ -79,26 +79,34 @@
 
 ### 👉 Frameworks
 <p align="left"> 
-&emsp;
-  <a href="https://flutter.dev/" target="_blank"> 
-     <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
-   </a>
+
   &emsp; 
-  <a href="https://www.tensorflow.org/" target="_blank"> 
+  <a href="#" target="_blank"> 
    <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white">
   </a>   
   &emsp;
-  <a href="https://scikit-learn.org/" target="_blank">
+  <a href="#" target="_blank">
     <img alt="Scikit Learn" src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
   </a> 
    &emsp;
-  <a href="https://keras.io/" target="_blank"> 
+  <a href="#" target="_blank"> 
     <img alt="Keras" src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white"/>
   </a>
   &emsp;
-  <a href="https://pytorch.org/" target="_blank"> 
+  <a href="#" target="_blank"> 
     <img alt="Pytorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white"/>
   </a>
+	&emsp;
+  <a href="#" target="_blank"> 
+     <img alt="Flask" src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white">
+   </a>
+	&emsp;
+  <a href="#" target="_blank"> 
+     <img alt="Firebase" src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white">
+   </a>
+	ref="#" target="_blank"> 
+     <img alt="NodeJS" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
+   </a>
 </p>
 
 ### 👉 Databases & Cloud Hosting
