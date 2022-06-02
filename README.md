@@ -129,6 +129,8 @@
 <a href="#"><img alt="AWS" src ="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"></a>
 	&emsp;
 <a href="#"><img alt="AWS DynamoDB" src ="https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white"></a>
+	&emsp;
+<a href="#"><img alt="AWS Elastic Search" src ="https://img.shields.io/badge/Elastic_Search-005571?style=for-the-badge&logo=elasticsearch&logoColor=white"></a>
  </p>
 
  ### 👉 Software & Tools
@@ -158,8 +160,7 @@
     <a href="#"><img alt="Raspberry PI" src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white"></a>
     &emsp;
      <a href="#"><img alt="OpenCV" src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white"></a>
-    &emsp; <a href="#"><img alt="Jira" src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white"></a>
-    &emsp;
+    &emsp; 
     
 </p>
 
